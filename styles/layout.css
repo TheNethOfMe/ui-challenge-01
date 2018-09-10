@@ -1,0 +1,41 @@
+.center-content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+header {
+  border: red 2px solid;
+  height: 75px;
+}
+
+nav {
+  border: blue 2px solid;
+  height: 150px;
+}
+
+.primary article {
+  border: green 2px solid;
+  height: 125px;
+}
+
+.secondary {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.secondary article {
+  box-shadow: inset -1px 0 0 darkgoldenrod, inset 0 -1px 0 darkgoldenrod, inset 1px 0 0 darkgoldenrod, inset 0 1px 0 darkgoldenrod;
+  height: 250px;
+  width: 50%;
+}
+
+footer {
+  border: brown 2px solid;
+  height: 80px;
+  /* display: flex;
+  align-items: center;
+  justify-content: center; */
+}
+
+
