@@ -17,7 +17,6 @@ nav {
 }
 
 .primary article {
-  background-color: #D99AC5;
   height: 125px;
 }
 
@@ -27,12 +26,11 @@ nav {
 }
 
 .secondary article {
-  background-color: #DCCDE8;
   height: 250px;
   width: 50%;
 }
 
 footer {
-  background-color: #B37BA4;
+  background-color: #875D7B;
   height: 80px;
 }
