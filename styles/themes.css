@@ -1,0 +1,37 @@
+/* 
+
+96E8BC
+
+C9FFE2 */
+@media screen and (min-width: 768px) {
+  body {
+    background-color: #213824;
+  }
+  header {
+    background-color: #4B7F52;
+  }
+  footer {
+    background-color: #144C1C;
+  }
+  nav {
+    background-color: #ED6A5A;
+  }
+  .area-c {
+    background-color: #3BCC42;
+  }
+  .area-d {
+    background-color: #60D165;
+  }
+  .area-e {
+    background-color: #B6F9C9;
+  }
+  .area-f {
+    background-color: #A4F9BD;
+  }
+  .area-g {
+    background-color: #7FF9A2;
+  }
+  .area-h {
+    background-color: #93D8A7;
+  }
+};

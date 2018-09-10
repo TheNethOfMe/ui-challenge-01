@@ -1,0 +1,36 @@
+
+.center-content {
+  box-shadow: inset -1px 0 0 #333, inset 0 -1px 0 #333, inset 1px 0 0 #333, inset 0 1px 0 #333;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+header {
+  background-color: #B37BA4;
+  height: 75px;
+}
+
+nav {
+  background-color: #14BDEB;
+  height: 150px;
+}
+
+.primary article {
+  height: 125px;
+}
+
+.secondary {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.secondary article {
+  height: 250px;
+  width: 50%;
+}
+
+footer {
+  background-color: #875D7B;
+  height: 80px;
+}
