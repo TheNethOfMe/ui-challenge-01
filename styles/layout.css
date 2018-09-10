@@ -1,3 +1,4 @@
+
 .center-content {
   box-shadow: inset -1px 0 0 #333, inset 0 -1px 0 #333, inset 1px 0 0 #333, inset 0 1px 0 #333;
   display: flex;
@@ -6,19 +7,16 @@
 }
 
 header {
-  /* border: red 2px solid; */
   background-color: #B37BA4;
   height: 75px;
 }
 
 nav {
-  /* border: blue 2px solid; */
   background-color: #14BDEB;
   height: 150px;
 }
 
 .primary article {
-  /* border: green 2px solid; */
   background-color: #D99AC5;
   height: 125px;
 }
@@ -35,9 +33,6 @@ nav {
 }
 
 footer {
-  /* border: brown 2px solid; */
   background-color: #B37BA4;
   height: 80px;
 }
-
-
