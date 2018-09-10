@@ -1,21 +1,25 @@
 .center-content {
+  box-shadow: inset -1px 0 0 #333, inset 0 -1px 0 #333, inset 1px 0 0 #333, inset 0 1px 0 #333;
   display: flex;
   align-items: center;
   justify-content: center;
 }
 
 header {
-  border: red 2px solid;
+  /* border: red 2px solid; */
+  background-color: #B37BA4;
   height: 75px;
 }
 
 nav {
-  border: blue 2px solid;
+  /* border: blue 2px solid; */
+  background-color: #14BDEB;
   height: 150px;
 }
 
 .primary article {
-  border: green 2px solid;
+  /* border: green 2px solid; */
+  background-color: #D99AC5;
   height: 125px;
 }
 
@@ -25,17 +29,15 @@ nav {
 }
 
 .secondary article {
-  box-shadow: inset -1px 0 0 darkgoldenrod, inset 0 -1px 0 darkgoldenrod, inset 1px 0 0 darkgoldenrod, inset 0 1px 0 darkgoldenrod;
+  background-color: #DCCDE8;
   height: 250px;
   width: 50%;
 }
 
 footer {
-  border: brown 2px solid;
+  /* border: brown 2px solid; */
+  background-color: #B37BA4;
   height: 80px;
-  /* display: flex;
-  align-items: center;
-  justify-content: center; */
 }
 
 
